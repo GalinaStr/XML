@@ -1,0 +1,26 @@
+<Skills>
+    <1>Base of theory</1> 
+	"2": "Client server architecture",
+	"3": "HTTP reqwests and respons",
+	"4": "Structure of reqwests and respons",
+	"5": "JSON,XML.Structure",
+	"6": "Testing API with POSTMAN(JS,automated testing API)",
+	"7": "Logs",
+	"8": "Charles,Fiddler",
+	"9": "DevTools",
+	"10": "VPN",
+	"11": "Mobile testing",
+	"12": "Peculiarity of IOS,Android,guideline.",
+	"13": "XCod",
+	"14": "Android Studio",
+	"15": "Charles,Fiddler in iOS and Android",
+	"16": "ADB",
+	"17": "Proxy and VPN in IOS and Android",
+	"18": "Terminal Linux,GitBash",
+	"19": "SQL",
+	"20": "Postgres",
+	"21": "Redis",
+	"22": "Jmeter",
+	"23": "Scrum",
+	"24": "Python"
+</Skills>
