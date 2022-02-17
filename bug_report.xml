@@ -1,4 +1,4 @@
-<bug_report>
+<bug_report1>
 	<ID>1</ID>
 	<Summary>The button isn't active</Summary>
 	<Severity>major</Severity>
@@ -7,4 +7,4 @@
 	<Steps_to_Reproduce>Click on the button 'Registreted'</Steps_to_Reproduce>
 	<Actual_result>The button isn't pushed</Actual_result>
 	<Expected_Result>The button is active</Expected_Result>
-</bug_report>
+</bug_report1>
