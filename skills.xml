@@ -1,26 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
 <Skills>
-    <1>Base of theory</1> 
-	"2": "Client server architecture",
-	"3": "HTTP reqwests and respons",
-	"4": "Structure of reqwests and respons",
-	"5": "JSON,XML.Structure",
-	"6": "Testing API with POSTMAN(JS,automated testing API)",
-	"7": "Logs",
-	"8": "Charles,Fiddler",
-	"9": "DevTools",
-	"10": "VPN",
-	"11": "Mobile testing",
-	"12": "Peculiarity of IOS,Android,guideline.",
-	"13": "XCod",
-	"14": "Android Studio",
-	"15": "Charles,Fiddler in iOS and Android",
-	"16": "ADB",
-	"17": "Proxy and VPN in IOS and Android",
-	"18": "Terminal Linux,GitBash",
-	"19": "SQL",
-	"20": "Postgres",
-	"21": "Redis",
-	"22": "Jmeter",
-	"23": "Scrum",
-	"24": "Python"
+    <skill_1>Base of theory</skill_1>
+    <skill_2>Client server architecture</skill_2>
+    <skill_3>HTTP reqwests and respons</skill_3>
+    <skill_4>Structure of reqwests and respons</skill_4>
+    <skill_5>JSON,XML.Structure</skill_5>
+    <skill_6>Testing API with POSTMAN(JS,automated testing API)</skill_6>
+    <skill_7>Logs</skill_7>
+    <skill_8>Charles,Fiddler</skill_8>
+    <skill_9>DevTools</skill_9>
+    <skill_10>VPN</skill_10>
+    <skill_11>Mobile testing</skill_11>
+    <skill_12>Peculiarity of IOS,Android,guideline.</skill_12>
+    <skill_13>XCod</skill_13>
+    <skill_14>Android Studio</skill_14>
+    <skill_15>Charles,Fiddler in iOS and Android</skill_15>
+    <skill_16>ADB</skill_16>
+    <skill_17>Proxy and VPN in IOS and Android</skill_17>
+    <skill_18>Terminal Linux,GitBash</skill_18>
+    <skill_19>SQL</skill_19>
+    <skill_20>Postgres</skill_20>
+    <skill_21>Redis</skill_21>
+    <skill_22>Jmeter</skill_22>
+    <skill_23>Scrum</skill_23>
+    <skill_24>Python</skill_24>
 </Skills>
